@@ -1,0 +1,17 @@
+{
+    "name": "JW Player Mirror",
+    "version": "6.12.4950",
+    "main": [
+        "dist/jwplayer.flash.swf",
+        "dist/jwplayer.min.js",
+        "dist/jwplayer.html5.min.js",
+        "README.md",
+        "README.html"
+    ],
+    "description": "Unofficial JW Player repository accessible via Bower",
+    "license": "",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ]
+}
