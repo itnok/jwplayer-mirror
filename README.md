@@ -1,19 +1,23 @@
 JW Player (Mirror)
 ==================
 
-Unofficial JW Player repository accessible via Bower
+Unofficial JW Player repository accessible via Bower.
+
+Current version is **6.12.4950**
 
 
+
+===
 
 # Documentation from the JW Player official website
 
-README: JW Player
-=================
+## README: JW Player
 
 Thank you for downloading JW Player 6, the world's most popular HTML5/Flash video player! See [About JW Player](http://www.longtailvideo.com/support/jw-player/28832/about-jw-player) for an overview of supported browsers/devices, as well as a more detailed feature list. See the [Release Notes](http://www.longtailvideo.com/support/jw-player/28835/release-notes) if you want to learn what changed with this latest release.
 
-Quick Start
------------
+---
+
+### Quick Start
 
 Copy the **jwplayer** folder that contains this README to the www root of your website. Next, include the *jwplayer.js* script in the \<head\> of your HTML page.
 
@@ -24,7 +28,7 @@ If you have purchased the [Pro, Premium or Ads edition](http://www.longtailvideo
 
 Note: A key is not required to use the Free edition, but will still be available from your [JW Player Account](https://account.longtailvideo.com/). Including your key will enable the free [JW Player Analytics](http://www.longtailvideo.com/support/jw-player/28852/using-jw-player-analytics) for your account.
 
-### Embed Code
+#### Embed Code
 
 When the script and key are set, scroll down to the \<body\> of your HTML page and insert the JW Player embed code at the place you want your video to appear:
 
@@ -41,7 +45,7 @@ See [Embedding JW Player](http://www.longtailvideo.com/support/jw-player/28839/e
 
 *Note two very common issues prevent smooth video playback in Internet Explorer 9/10. First, you need to set **\<!DOCTYPE html\>** to prevent triggering IE's compatibility mode. Second, your videos must be served with the **video/mp4** mimetype. Not doing so will cause IE not to play them. See our [troubleshooting guide](http://www.longtailvideo.com/support/jw-player/28840/troubleshooting-your-setup) for more common issues.*
 
-### Premium Skins
+#### Premium Skins
 
 If you have purchased the Premium or Ads edition of the player, your player includes a set of Premium skins. These skins can be downloaded from your [JW Player Account](https://account.longtailvideo.com/), but you can also load them off our CDN by simply inserting the skin name:
 
@@ -49,8 +53,9 @@ If you have purchased the Premium or Ads edition of the player, your player incl
 
 See [Using JW Player Skins](http://www.longtailvideo.com/support/jw-player/28846/using-jw-player-skins) for more info.
 
-Documentation
--------------
+---
+
+### Documentation
 
 If you need help, the LongTail Support Community contains a wealth of information, including guides on:
 
@@ -65,8 +70,10 @@ Visit our [Support Forums](http://www.longtailvideo.com/support/forums/jw-player
 
 Follow the [LongTail Video Blog](http://www.longtailvideo.com/blog/) for news on the JW Player and online video in general. We frequently publish posts on topics such as HTML5, video SEO, H.264, VAST advertising, etc. You can also [follow us on Twitter](http://twitter.com/longtailvideo) or [like us on Facebook](http://www.facebook.com/longtailvideo) to stay connected.
 
-Licensing
----------
+---
+
+### Licensing
+
 
 Please be aware that each player edition has its own license:
 
