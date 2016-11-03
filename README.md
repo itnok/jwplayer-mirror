@@ -3,7 +3,7 @@ JW Player (Mirror)
 
 Unofficial JW Player repository accessible via Bower.
 
-Current version is **6.12.4956**
+Current version is **7.7.4**
 
 
 
@@ -13,7 +13,7 @@ Current version is **6.12.4956**
 
 ## README: JW Player
 
-Thank you for downloading JW Player 6, the world's most popular HTML5/Flash video player! See [About JW Player](http://www.longtailvideo.com/support/jw-player/28832/about-jw-player) for an overview of supported browsers/devices, as well as a more detailed feature list. See the [Release Notes](http://www.longtailvideo.com/support/jw-player/28835/release-notes) if you want to learn what changed with this latest release.
+Thank you for downloading JW Player 7, the world's most popular HTML5/Flash video player! See [About JW Player](http://www.longtailvideo.com/support/jw-player/28832/about-jw-player) for an overview of supported browsers/devices, as well as a more detailed feature list. See the [Release Notes](http://www.longtailvideo.com/support/jw-player/28835/release-notes) if you want to learn what changed with this latest release.
 
 ---
 
@@ -78,7 +78,7 @@ Follow the [LongTail Video Blog](http://www.longtailvideo.com/blog/) for news on
 Please be aware that each player edition has its own license:
 
 JW Player Free
-Under the terms of our [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/), you can use, modify and redistribute the player for non-commercial purposes only. Commercial sites must [purchase a license](%20http://www.longtailvideo.com/jw-player/pricing/) for the **Pro**, **Premium** or **Ads** editions. See the [JW Player 6 License](http://www.longtailvideo.com/jw-player/license/jw-player-license-text) for further details.
+Under the terms of our [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/), you can use, modify and redistribute the player for non-commercial purposes only. Commercial sites must [purchase a license](%20http://www.longtailvideo.com/jw-player/pricing/) for the **Pro**, **Premium** or **Ads** editions. See the [JW Player 7 License](http://www.longtailvideo.com/jw-player/license/jw-player-license-text) for further details.
 
 JW Player Pro
 Under the terms of our [Commercial License](http://www.longtailvideo.com/jw-player/license/jw-player-license-text), you can deploy your copy of JW Player **Pro** for commercial use on 1 domain. See our [pricing page](http://www.longtailvideo.com/jw-player/pricing/) for more information on edition features and pricing.
