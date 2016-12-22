@@ -1,6 +1,6 @@
 {
     "name": "JW Player Mirror",
-    "version": "7.8.4",
+    "version": "7.8.6",
     "main": [
         "dist/jw-icons.ttf",
         "dist/jw-icons.woff",
@@ -12,7 +12,6 @@
         "dist/polyfills.promise.js",
         "dist/polyfills.vttrenderer.js",
         "dist/provider.cast.js",
-        "dist/provider.caterpillar.js",
         "dist/provider.flash.js",
         "dist/provider.hlsjs.js",
         "dist/provider.html5.js",
